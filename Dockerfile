@@ -26,7 +26,7 @@ RUN set -ex; \
         wget \
         g++ \
         ssh \
-	chromium-browser \
+	firefox \
         terminator \
         htop \
         gnupg2 \
